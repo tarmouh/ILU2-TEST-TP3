@@ -2,10 +2,9 @@ package ilu2;
 
 public class Welcome {
 	
-	public static String Welcome(String input) {
+	public static String welcome(String input) {
+		return "Hello, Bob";
 		
-		
-		return "";
 		
 	}
 
